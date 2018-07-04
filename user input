@@ -1,0 +1,7 @@
+# PracticePython.org
+# excercise 1
+
+import datetime
+
+age = input("Enter your age:")
+age = int(age)
